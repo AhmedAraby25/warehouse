@@ -18,6 +18,9 @@ Steps to run it
 #### 3. Check the APIs on swagger: 
 http://localhost:8090/swagger-ui.html
 
+#### 4. Check H2 DB on: 
+http://localhost:8090/h2/
+
 --- 
 ### As a TODO work:
 * I'd add Flyway to make the migration process of DB mor easier.
