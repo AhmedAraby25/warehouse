@@ -31,3 +31,4 @@ http://localhost:8090/h2/
 * add location/s for each product.  
 * add more APIs to control every piece of data in the DB.
 * add logs with different levels.
+* add more needed indexs on fields that we need to search for in DB to improve the performance of the queries.
